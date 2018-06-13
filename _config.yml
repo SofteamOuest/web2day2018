@@ -1,6 +1,22 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Web2Day
+tagline:      
+baseurl:      ""
+paginate:     5
+locale:       "fr"
 
-gems: [jekyll-mermaid]
+# About/contact
+author:
+  name:       Mehdi EL KOUHEN
+  url:        https://softeamouest.github.io
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-mermaid
+
+#Others
+markdown: kramdown
 
 mermaid:
-  src: 'https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.2/mermaid.js'
+  src: 'https://cdn.jsdelivr.net/npm/mermaid@8.0.0-rc.8/dist/mermaid.js'
