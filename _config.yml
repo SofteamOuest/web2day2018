@@ -1,7 +1,7 @@
 # Setup
 title:        Web2Day
 tagline:      
-baseurl:      "https://github.com/SofteamOuest/web2day2018"
+baseurl:      "https://github.com/SofteamOuest/web2day2018/"
 paginate:     5
 locale:       "fr"
 
